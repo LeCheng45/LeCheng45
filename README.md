@@ -1,5 +1,5 @@
 <h1 align="center">你好，我是 LeCheng45</h1>
-<h3 align="center">一个南昌大学在读的大四学生</h3>
+<h3 align="center">一个南昌大学计算机科学与技术系在读的大四学生</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lecheng45&label=Profile%20views&color=0e75b6&style=flat" alt="lecheng45" /> </p>
 
